@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_Positive", "Sum_of_P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_a_Number_to_a_String!", "Convert_a_Number_to_a_String!\Convert_a_Number_to_a_String!.csproj", "{1ED5584A-00AC-482D-8CB8-8B81DCBBCFCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed_Strings", "Reversed_Strings\Reversed_Strings.csproj", "{4D6CC989-B032-4A2B-AC2F-FC68950FBA53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1ED5584A-00AC-482D-8CB8-8B81DCBBCFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ED5584A-00AC-482D-8CB8-8B81DCBBCFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ED5584A-00AC-482D-8CB8-8B81DCBBCFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6CC989-B032-4A2B-AC2F-FC68950FBA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6CC989-B032-4A2B-AC2F-FC68950FBA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6CC989-B032-4A2B-AC2F-FC68950FBA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6CC989-B032-4A2B-AC2F-FC68950FBA53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
