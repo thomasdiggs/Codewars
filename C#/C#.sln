@@ -5,15 +5,17 @@ VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Even_or_Odd", "Even_or_Odd\Even_or_Odd.csproj", "{40E359FA-8885-4BE1-8D2D-9F17D976EC4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiply", "Multiply\Multiply.csproj", "{4519330C-F0AE-4475-810B-3F704014CBE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiply", "Multiply\Multiply.csproj", "{4519330C-F0AE-4475-810B-3F704014CBE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return_Negative", "Return_Negative\Return_Negative.csproj", "{F469C1B9-315E-462E-8EB0-8511B50AC773}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Return_Negative", "Return_Negative\Return_Negative.csproj", "{F469C1B9-315E-462E-8EB0-8511B50AC773}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_Positive", "Sum_of_Positive\Sum_of_Positive.csproj", "{89890A5A-C6D6-4FB3-8117-74F96FC4D5E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum_of_Positive", "Sum_of_Positive\Sum_of_Positive.csproj", "{89890A5A-C6D6-4FB3-8117-74F96FC4D5E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_a_Number_to_a_String!", "Convert_a_Number_to_a_String!\Convert_a_Number_to_a_String!.csproj", "{1ED5584A-00AC-482D-8CB8-8B81DCBBCFCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert_a_Number_to_a_String!", "Convert_a_Number_to_a_String!\Convert_a_Number_to_a_String!.csproj", "{1ED5584A-00AC-482D-8CB8-8B81DCBBCFCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed_Strings", "Reversed_Strings\Reversed_Strings.csproj", "{4D6CC989-B032-4A2B-AC2F-FC68950FBA53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversed_Strings", "Reversed_Strings\Reversed_Strings.csproj", "{4D6CC989-B032-4A2B-AC2F-FC68950FBA53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_boolean_values_to_strings_'Yes'_or_'No'", "Convert_boolean_values_to_strings_'Yes'_or_'No'\Convert_boolean_values_to_strings_'Yes'_or_'No'.csproj", "{FDADFB69-F48D-43DD-BFCD-6D286E96F9E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{4D6CC989-B032-4A2B-AC2F-FC68950FBA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D6CC989-B032-4A2B-AC2F-FC68950FBA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D6CC989-B032-4A2B-AC2F-FC68950FBA53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDADFB69-F48D-43DD-BFCD-6D286E96F9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDADFB69-F48D-43DD-BFCD-6D286E96F9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDADFB69-F48D-43DD-BFCD-6D286E96F9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDADFB69-F48D-43DD-BFCD-6D286E96F9E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
