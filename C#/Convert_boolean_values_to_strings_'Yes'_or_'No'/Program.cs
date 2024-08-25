@@ -2,9 +2,9 @@
 {
     internal class Program
     {
-        public static string BoolToWord(bool value)
+        public static string BoolToWord(bool word)
         {
-            return value ? "Yes" : "No";
+            return word ? "Yes" : "No";
         }
 
         static void Main(string[] args)
