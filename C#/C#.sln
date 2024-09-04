@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_repeat", "String_rep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grasshopper_-_Summation", "Grasshopper_-_Summation\Grasshopper_-_Summation.csproj", "{2FD2034A-C947-4075-B378-C00D616467BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_the_smallest_integer_in_the_array", "Find_the_smallest_integer_in_the_array\Find_the_smallest_integer_in_the_array.csproj", "{83152622-EF97-45ED-B929-496893EA30FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{2FD2034A-C947-4075-B378-C00D616467BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FD2034A-C947-4075-B378-C00D616467BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FD2034A-C947-4075-B378-C00D616467BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83152622-EF97-45ED-B929-496893EA30FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83152622-EF97-45ED-B929-496893EA30FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83152622-EF97-45ED-B929-496893EA30FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83152622-EF97-45ED-B929-496893EA30FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
