@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grasshopper_-_Summation", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_the_smallest_integer_in_the_array", "Find_the_smallest_integer_in_the_array\Find_the_smallest_integer_in_the_array.csproj", "{83152622-EF97-45ED-B929-496893EA30FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_String_Spaces", "Remove_String_Spaces\Remove_String_Spaces.csproj", "{438BD8CA-E21E-40D8-B076-274D80B937DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{83152622-EF97-45ED-B929-496893EA30FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83152622-EF97-45ED-B929-496893EA30FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83152622-EF97-45ED-B929-496893EA30FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438BD8CA-E21E-40D8-B076-274D80B937DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438BD8CA-E21E-40D8-B076-274D80B937DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438BD8CA-E21E-40D8-B076-274D80B937DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438BD8CA-E21E-40D8-B076-274D80B937DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
