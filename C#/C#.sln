@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_the_smallest_integer_i
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_String_Spaces", "Remove_String_Spaces\Remove_String_Spaces.csproj", "{438BD8CA-E21E-40D8-B076-274D80B937DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting_sheep", "Counting_sheep\Counting_sheep.csproj", "{99B72A71-72C2-4D5F-A3F2-419BE8A3DE62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{438BD8CA-E21E-40D8-B076-274D80B937DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{438BD8CA-E21E-40D8-B076-274D80B937DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{438BD8CA-E21E-40D8-B076-274D80B937DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B72A71-72C2-4D5F-A3F2-419BE8A3DE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B72A71-72C2-4D5F-A3F2-419BE8A3DE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B72A71-72C2-4D5F-A3F2-419BE8A3DE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B72A71-72C2-4D5F-A3F2-419BE8A3DE62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
