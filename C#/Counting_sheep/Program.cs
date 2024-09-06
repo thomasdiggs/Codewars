@@ -7,7 +7,7 @@
             int counter = 0;
             foreach (bool sheep in sheeps)
             {
-                if (sheep == true)
+                if (sheep)
                 {
                     counter++;
                 }
