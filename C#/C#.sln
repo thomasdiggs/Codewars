@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_String_Spaces", "Rem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting_sheep", "Counting_sheep\Counting_sheep.csproj", "{99B72A71-72C2-4D5F-A3F2-419BE8A3DE62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic_Mathematical_Operations", "Basic_Mathematical_Operations\Basic_Mathematical_Operations.csproj", "{B7C3CE77-91A9-4F8E-BB5F-13F6457E5E8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_a_String_to_a_Number!", "Convert_a_String_to_a_Number!\Convert_a_String_to_a_Number!.csproj", "{1FE4F316-0699-435D-8318-2B2207B1F2D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{99B72A71-72C2-4D5F-A3F2-419BE8A3DE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99B72A71-72C2-4D5F-A3F2-419BE8A3DE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99B72A71-72C2-4D5F-A3F2-419BE8A3DE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C3CE77-91A9-4F8E-BB5F-13F6457E5E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C3CE77-91A9-4F8E-BB5F-13F6457E5E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C3CE77-91A9-4F8E-BB5F-13F6457E5E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C3CE77-91A9-4F8E-BB5F-13F6457E5E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE4F316-0699-435D-8318-2B2207B1F2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE4F316-0699-435D-8318-2B2207B1F2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE4F316-0699-435D-8318-2B2207B1F2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE4F316-0699-435D-8318-2B2207B1F2D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
