@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_a_String_to_a_Numbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Century_From_Year", "Century_From_Year\Century_From_Year.csproj", "{33D54637-DDBD-4EBF-A997-884A39E91F64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keep_Hydrated!", "Keep_Hydrated!\Keep_Hydrated!.csproj", "{916433FE-BE88-46E3-993A-9BF44686CC53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{33D54637-DDBD-4EBF-A997-884A39E91F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33D54637-DDBD-4EBF-A997-884A39E91F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33D54637-DDBD-4EBF-A997-884A39E91F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916433FE-BE88-46E3-993A-9BF44686CC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916433FE-BE88-46E3-993A-9BF44686CC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916433FE-BE88-46E3-993A-9BF44686CC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916433FE-BE88-46E3-993A-9BF44686CC53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
