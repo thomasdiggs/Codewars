@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keep_Hydrated!", "Keep_Hydr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_number_to_reversed_array_of_digits", "Convert_number_to_reversed_array_of_digits\Convert_number_to_reversed_array_of_digits.csproj", "{BFD1A6F5-90A6-4F6D-A6D4-8B471D77E0A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Returning_Strings", "Returning_Strings\Returning_Strings.csproj", "{79B95A4C-86D3-44F7-850F-29E42C7BEF9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{BFD1A6F5-90A6-4F6D-A6D4-8B471D77E0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFD1A6F5-90A6-4F6D-A6D4-8B471D77E0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFD1A6F5-90A6-4F6D-A6D4-8B471D77E0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B95A4C-86D3-44F7-850F-29E42C7BEF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B95A4C-86D3-44F7-850F-29E42C7BEF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B95A4C-86D3-44F7-850F-29E42C7BEF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B95A4C-86D3-44F7-850F-29E42C7BEF9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
