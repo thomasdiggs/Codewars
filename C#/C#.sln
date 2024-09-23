@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Century_From_Year", "Centur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keep_Hydrated!", "Keep_Hydrated!\Keep_Hydrated!.csproj", "{916433FE-BE88-46E3-993A-9BF44686CC53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_number_to_reversed_array_of_digits", "Convert_number_to_reversed_array_of_digits\Convert_number_to_reversed_array_of_digits.csproj", "{BFD1A6F5-90A6-4F6D-A6D4-8B471D77E0A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{916433FE-BE88-46E3-993A-9BF44686CC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{916433FE-BE88-46E3-993A-9BF44686CC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{916433FE-BE88-46E3-993A-9BF44686CC53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD1A6F5-90A6-4F6D-A6D4-8B471D77E0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD1A6F5-90A6-4F6D-A6D4-8B471D77E0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD1A6F5-90A6-4F6D-A6D4-8B471D77E0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD1A6F5-90A6-4F6D-A6D4-8B471D77E0A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
