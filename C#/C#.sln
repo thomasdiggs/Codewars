@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_number_to_reversed_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Returning_Strings", "Returning_Strings\Returning_Strings.csproj", "{79B95A4C-86D3-44F7-850F-29E42C7BEF9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opposites_Attract", "Opposites_Attract\Opposites_Attract.csproj", "{998D8BAC-D360-4545-957A-1F973BDE698D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{79B95A4C-86D3-44F7-850F-29E42C7BEF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79B95A4C-86D3-44F7-850F-29E42C7BEF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79B95A4C-86D3-44F7-850F-29E42C7BEF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998D8BAC-D360-4545-957A-1F973BDE698D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998D8BAC-D360-4545-957A-1F973BDE698D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998D8BAC-D360-4545-957A-1F973BDE698D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998D8BAC-D360-4545-957A-1F973BDE698D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
