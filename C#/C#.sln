@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opposites_Attract", "Opposi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function_1_-_hello_world", "Function_1_-_hello_world\Function_1_-_hello_world.csproj", "{E29775A0-5742-4367-81B7-5A5DF464E1CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Needle_in_the_Haystack", "A_Needle_in_the_Haystack\A_Needle_in_the_Haystack.csproj", "{68996F0E-CCFA-4452-9015-7FDCD51540B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is_n_divisible_by_x_any_y", "Is_n_divisible_by_x_any_y\Is_n_divisible_by_x_any_y.csproj", "{5EA62479-691D-4F74-BEB7-1D84F7630616}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{E29775A0-5742-4367-81B7-5A5DF464E1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E29775A0-5742-4367-81B7-5A5DF464E1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E29775A0-5742-4367-81B7-5A5DF464E1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68996F0E-CCFA-4452-9015-7FDCD51540B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68996F0E-CCFA-4452-9015-7FDCD51540B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68996F0E-CCFA-4452-9015-7FDCD51540B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68996F0E-CCFA-4452-9015-7FDCD51540B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA62479-691D-4F74-BEB7-1D84F7630616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA62479-691D-4F74-BEB7-1D84F7630616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA62479-691D-4F74-BEB7-1D84F7630616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA62479-691D-4F74-BEB7-1D84F7630616}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
