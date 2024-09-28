@@ -1,3 +1,3 @@
 # Codewars
 
-A Collection of my solutions written in C and C# to problems from Codewars.com.
+A collection of solutions for problems on Codewars.com written in C and C#.
