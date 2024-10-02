@@ -3,6 +3,9 @@ namespace Vowel_Count
 {
     internal class Program
     {
+        // Loved this solution from another Codewars member
+        // return str.Count(i => "aeiou".Contains(i));
+
         public static int GetVowelCunt(string str)
         {
             char[] vowels = { 'a', 'e', 'i', 'o', 'u' };
