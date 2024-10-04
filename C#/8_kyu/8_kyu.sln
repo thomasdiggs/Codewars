@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is_n_divisible_by_x_any_y",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beginner_-_Lost_Without_a_Map", "Beginner_-_Lost_Without_a_Map\Beginner_-_Lost_Without_a_Map.csproj", "{13AF3F37-5038-4654-A3A8-23A5938CA978}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_Arrays", "Sum_Arrays\Sum_Arrays.csproj", "{20579F36-13DA-42E3-9438-D9556E79A886}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{13AF3F37-5038-4654-A3A8-23A5938CA978}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13AF3F37-5038-4654-A3A8-23A5938CA978}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13AF3F37-5038-4654-A3A8-23A5938CA978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20579F36-13DA-42E3-9438-D9556E79A886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20579F36-13DA-42E3-9438-D9556E79A886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20579F36-13DA-42E3-9438-D9556E79A886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20579F36-13DA-42E3-9438-D9556E79A886}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
