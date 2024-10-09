@@ -19,41 +19,43 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert_boolean_values_to_s
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opposite_number", "Opposite_number\Opposite_number.csproj", "{6B08C748-B74C-465C-BD15-C2829DC08EC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_First_and_Last_Character", "Remove_First_and_Last_Character\Remove_First_and_Last_Character.csproj", "{E4FD3E6B-06B0-4E44-8A2A-D20CF1D66796}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove_First_and_Last_Character", "Remove_First_and_Last_Character\Remove_First_and_Last_Character.csproj", "{E4FD3E6B-06B0-4E44-8A2A-D20CF1D66796}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_repeat", "String_repeat\String_repeat.csproj", "{5BC38A25-4A0C-43B2-A0A1-F884BD379571}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String_repeat", "String_repeat\String_repeat.csproj", "{5BC38A25-4A0C-43B2-A0A1-F884BD379571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grasshopper_-_Summation", "Grasshopper_-_Summation\Grasshopper_-_Summation.csproj", "{2FD2034A-C947-4075-B378-C00D616467BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grasshopper_-_Summation", "Grasshopper_-_Summation\Grasshopper_-_Summation.csproj", "{2FD2034A-C947-4075-B378-C00D616467BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_the_smallest_integer_in_the_array", "Find_the_smallest_integer_in_the_array\Find_the_smallest_integer_in_the_array.csproj", "{83152622-EF97-45ED-B929-496893EA30FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_the_smallest_integer_in_the_array", "Find_the_smallest_integer_in_the_array\Find_the_smallest_integer_in_the_array.csproj", "{83152622-EF97-45ED-B929-496893EA30FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_String_Spaces", "Remove_String_Spaces\Remove_String_Spaces.csproj", "{438BD8CA-E21E-40D8-B076-274D80B937DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove_String_Spaces", "Remove_String_Spaces\Remove_String_Spaces.csproj", "{438BD8CA-E21E-40D8-B076-274D80B937DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting_sheep", "Counting_sheep\Counting_sheep.csproj", "{99B72A71-72C2-4D5F-A3F2-419BE8A3DE62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counting_sheep", "Counting_sheep\Counting_sheep.csproj", "{99B72A71-72C2-4D5F-A3F2-419BE8A3DE62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic_Mathematical_Operations", "Basic_Mathematical_Operations\Basic_Mathematical_Operations.csproj", "{B7C3CE77-91A9-4F8E-BB5F-13F6457E5E8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic_Mathematical_Operations", "Basic_Mathematical_Operations\Basic_Mathematical_Operations.csproj", "{B7C3CE77-91A9-4F8E-BB5F-13F6457E5E8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_a_String_to_a_Number!", "Convert_a_String_to_a_Number!\Convert_a_String_to_a_Number!.csproj", "{1FE4F316-0699-435D-8318-2B2207B1F2D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert_a_String_to_a_Number!", "Convert_a_String_to_a_Number!\Convert_a_String_to_a_Number!.csproj", "{1FE4F316-0699-435D-8318-2B2207B1F2D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Century_From_Year", "Century_From_Year\Century_From_Year.csproj", "{33D54637-DDBD-4EBF-A997-884A39E91F64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Century_From_Year", "Century_From_Year\Century_From_Year.csproj", "{33D54637-DDBD-4EBF-A997-884A39E91F64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keep_Hydrated!", "Keep_Hydrated!\Keep_Hydrated!.csproj", "{916433FE-BE88-46E3-993A-9BF44686CC53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Keep_Hydrated!", "Keep_Hydrated!\Keep_Hydrated!.csproj", "{916433FE-BE88-46E3-993A-9BF44686CC53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert_number_to_reversed_array_of_digits", "Convert_number_to_reversed_array_of_digits\Convert_number_to_reversed_array_of_digits.csproj", "{BFD1A6F5-90A6-4F6D-A6D4-8B471D77E0A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert_number_to_reversed_array_of_digits", "Convert_number_to_reversed_array_of_digits\Convert_number_to_reversed_array_of_digits.csproj", "{BFD1A6F5-90A6-4F6D-A6D4-8B471D77E0A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Returning_Strings", "Returning_Strings\Returning_Strings.csproj", "{79B95A4C-86D3-44F7-850F-29E42C7BEF9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Returning_Strings", "Returning_Strings\Returning_Strings.csproj", "{79B95A4C-86D3-44F7-850F-29E42C7BEF9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opposites_Attract", "Opposites_Attract\Opposites_Attract.csproj", "{998D8BAC-D360-4545-957A-1F973BDE698D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opposites_Attract", "Opposites_Attract\Opposites_Attract.csproj", "{998D8BAC-D360-4545-957A-1F973BDE698D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function_1_-_hello_world", "Function_1_-_hello_world\Function_1_-_hello_world.csproj", "{E29775A0-5742-4367-81B7-5A5DF464E1CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Function_1_-_hello_world", "Function_1_-_hello_world\Function_1_-_hello_world.csproj", "{E29775A0-5742-4367-81B7-5A5DF464E1CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A_Needle_in_the_Haystack", "A_Needle_in_the_Haystack\A_Needle_in_the_Haystack.csproj", "{68996F0E-CCFA-4452-9015-7FDCD51540B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A_Needle_in_the_Haystack", "A_Needle_in_the_Haystack\A_Needle_in_the_Haystack.csproj", "{68996F0E-CCFA-4452-9015-7FDCD51540B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is_n_divisible_by_x_any_y", "Is_n_divisible_by_x_any_y\Is_n_divisible_by_x_any_y.csproj", "{5EA62479-691D-4F74-BEB7-1D84F7630616}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is_n_divisible_by_x_any_y", "Is_n_divisible_by_x_any_y\Is_n_divisible_by_x_any_y.csproj", "{5EA62479-691D-4F74-BEB7-1D84F7630616}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beginner_-_Lost_Without_a_Map", "Beginner_-_Lost_Without_a_Map\Beginner_-_Lost_Without_a_Map.csproj", "{13AF3F37-5038-4654-A3A8-23A5938CA978}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beginner_-_Lost_Without_a_Map", "Beginner_-_Lost_Without_a_Map\Beginner_-_Lost_Without_a_Map.csproj", "{13AF3F37-5038-4654-A3A8-23A5938CA978}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_Arrays", "Sum_Arrays\Sum_Arrays.csproj", "{20579F36-13DA-42E3-9438-D9556E79A886}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum_Arrays", "Sum_Arrays\Sum_Arrays.csproj", "{20579F36-13DA-42E3-9438-D9556E79A886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How_good_are_you_really", "How_good_are_you_really\How_good_are_you_really.csproj", "{AB50D0B9-BA80-4E17-819F-D535A01EF86D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{20579F36-13DA-42E3-9438-D9556E79A886}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20579F36-13DA-42E3-9438-D9556E79A886}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20579F36-13DA-42E3-9438-D9556E79A886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB50D0B9-BA80-4E17-819F-D535A01EF86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB50D0B9-BA80-4E17-819F-D535A01EF86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB50D0B9-BA80-4E17-819F-D535A01EF86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB50D0B9-BA80-4E17-819F-D535A01EF86D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
