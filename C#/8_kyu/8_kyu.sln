@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beginner_-_Lost_Without_a_M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum_Arrays", "Sum_Arrays\Sum_Arrays.csproj", "{20579F36-13DA-42E3-9438-D9556E79A886}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How_good_are_you_really", "How_good_are_you_really\How_good_are_you_really.csproj", "{AB50D0B9-BA80-4E17-819F-D535A01EF86D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "How_good_are_you_really", "How_good_are_you_really\How_good_are_you_really.csproj", "{AB50D0B9-BA80-4E17-819F-D535A01EF86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate_average", "Calculate_average\Calculate_average.csproj", "{4AC0E758-558F-46FB-A324-D5AF8EC2F82D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{AB50D0B9-BA80-4E17-819F-D535A01EF86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB50D0B9-BA80-4E17-819F-D535A01EF86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB50D0B9-BA80-4E17-819F-D535A01EF86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC0E758-558F-46FB-A324-D5AF8EC2F82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC0E758-558F-46FB-A324-D5AF8EC2F82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC0E758-558F-46FB-A324-D5AF8EC2F82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC0E758-558F-46FB-A324-D5AF8EC2F82D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
