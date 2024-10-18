@@ -1,10 +1,7 @@
 ﻿static string Bmi(double weight, double height)
 {
     double bmi = weight / (height * height);
-    return bmi <= 18.5 ? "Underweight" :
-        bmi <= 25.0 ? "Normal" :
-        bmi <= 30.0 ? "Overweight" :
-        bmi > 30 ? "Obese": "";
+    return bmi > 30 ? "Obese" : bmi >= 25 ? "Overweight" : bmi >= 18.5 ? "Normal" : "Underweight";
 }
 
 Console.WriteLine(Bmi(50, 1.80)); // Underweight
