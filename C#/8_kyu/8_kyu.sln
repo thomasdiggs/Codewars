@@ -63,9 +63,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple_multiplication", "Si
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakeUpperCase", "MakeUpperCase\MakeUpperCase.csproj", "{A2B0DD29-004E-43B3-AEC0-D6CD2AE4A183}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sentence_Smash", "Sentence_Smash\Sentence_Smash.csproj", "{92977E56-EBA3-4004-9A5A-74145088913C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sentence_Smash", "Sentence_Smash\Sentence_Smash.csproj", "{92977E56-EBA3-4004-9A5A-74145088913C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You_only_need_one_-_Beginner", "You_only_need_one_-_Beginner\You_only_need_one_-_Beginner.csproj", "{FF88D1FF-AF5C-4E51-8235-C4F388A9DECD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "You_only_need_one_-_Beginner", "You_only_need_one_-_Beginner\You_only_need_one_-_Beginner.csproj", "{FF88D1FF-AF5C-4E51-8235-C4F388A9DECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate_BMI", "Calculate_BMI\Calculate_BMI.csproj", "{7D0DB0AF-5F68-4039-B732-00D544C3027E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{FF88D1FF-AF5C-4E51-8235-C4F388A9DECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF88D1FF-AF5C-4E51-8235-C4F388A9DECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF88D1FF-AF5C-4E51-8235-C4F388A9DECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0DB0AF-5F68-4039-B732-00D544C3027E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0DB0AF-5F68-4039-B732-00D544C3027E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0DB0AF-5F68-4039-B732-00D544C3027E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0DB0AF-5F68-4039-B732-00D544C3027E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
