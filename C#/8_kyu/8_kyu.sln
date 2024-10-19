@@ -69,6 +69,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "You_only_need_one_-_Beginne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate_BMI", "Calculate_BMI\Calculate_BMI.csproj", "{7D0DB0AF-5F68-4039-B732-00D544C3027E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beginner_Series_#2_Clock", "Beginner_Series_#2_Clock\Beginner_Series_#2_Clock.csproj", "{78F96A69-9CFC-40A0-A4EE-7E0F551A87AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{7D0DB0AF-5F68-4039-B732-00D544C3027E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D0DB0AF-5F68-4039-B732-00D544C3027E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D0DB0AF-5F68-4039-B732-00D544C3027E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F96A69-9CFC-40A0-A4EE-7E0F551A87AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F96A69-9CFC-40A0-A4EE-7E0F551A87AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F96A69-9CFC-40A0-A4EE-7E0F551A87AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F96A69-9CFC-40A0-A4EE-7E0F551A87AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
