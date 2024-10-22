@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed_sequence", "Revers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is_he_gonna_survive", "Is_he_gonna_survive\Is_he_gonna_survive.csproj", "{136CF74A-F768-4848-B111-68F9E50767D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_exclamation_marks", "Remove_exclamation_marks\Remove_exclamation_marks.csproj", "{6284A7FB-6BD6-4290-A531-1E3D733CA3F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{136CF74A-F768-4848-B111-68F9E50767D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{136CF74A-F768-4848-B111-68F9E50767D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{136CF74A-F768-4848-B111-68F9E50767D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6284A7FB-6BD6-4290-A531-1E3D733CA3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6284A7FB-6BD6-4290-A531-1E3D733CA3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6284A7FB-6BD6-4290-A531-1E3D733CA3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6284A7FB-6BD6-4290-A531-1E3D733CA3F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
