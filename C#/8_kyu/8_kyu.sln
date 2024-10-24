@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_exclamation_marks", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNA_to_RNA_Conversion", "DNA_to_RNA_Conversion\DNA_to_RNA_Conversion.csproj", "{8AFD6581-07F7-4238-A824-EEA5923BDB59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Will_you_make_it", "Will_you_make_it\Will_you_make_it.csproj", "{1590B267-93A6-4C46-980F-92A0EB40F1B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{8AFD6581-07F7-4238-A824-EEA5923BDB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AFD6581-07F7-4238-A824-EEA5923BDB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AFD6581-07F7-4238-A824-EEA5923BDB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1590B267-93A6-4C46-980F-92A0EB40F1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1590B267-93A6-4C46-980F-92A0EB40F1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1590B267-93A6-4C46-980F-92A0EB40F1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1590B267-93A6-4C46-980F-92A0EB40F1B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
