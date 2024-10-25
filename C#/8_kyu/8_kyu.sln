@@ -67,21 +67,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sentence_Smash", "Sentence_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "You_only_need_one_-_Beginner", "You_only_need_one_-_Beginner\You_only_need_one_-_Beginner.csproj", "{FF88D1FF-AF5C-4E51-8235-C4F388A9DECD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate_BMI", "Calculate_BMI\Calculate_BMI.csproj", "{7D0DB0AF-5F68-4039-B732-00D544C3027E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculate_BMI", "Calculate_BMI\Calculate_BMI.csproj", "{7D0DB0AF-5F68-4039-B732-00D544C3027E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beginner_Series_#2_Clock", "Beginner_Series_#2_Clock\Beginner_Series_#2_Clock.csproj", "{78F96A69-9CFC-40A0-A4EE-7E0F551A87AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beginner_Series_#2_Clock", "Beginner_Series_#2_Clock\Beginner_Series_#2_Clock.csproj", "{78F96A69-9CFC-40A0-A4EE-7E0F551A87AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beginner_-_Reduce_but_Grow", "Beginner_-_Reduce_but_Grow\Beginner_-_Reduce_but_Grow.csproj", "{EBE4C771-BBA7-4632-9CFA-FF79B1D3F674}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beginner_-_Reduce_but_Grow", "Beginner_-_Reduce_but_Grow\Beginner_-_Reduce_but_Grow.csproj", "{EBE4C771-BBA7-4632-9CFA-FF79B1D3F674}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversed_sequence", "Reversed_sequence\Reversed_sequence.csproj", "{42E7E66E-A0E0-41E2-BA5B-EDCC74997448}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversed_sequence", "Reversed_sequence\Reversed_sequence.csproj", "{42E7E66E-A0E0-41E2-BA5B-EDCC74997448}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is_he_gonna_survive", "Is_he_gonna_survive\Is_he_gonna_survive.csproj", "{136CF74A-F768-4848-B111-68F9E50767D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is_he_gonna_survive", "Is_he_gonna_survive\Is_he_gonna_survive.csproj", "{136CF74A-F768-4848-B111-68F9E50767D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_exclamation_marks", "Remove_exclamation_marks\Remove_exclamation_marks.csproj", "{6284A7FB-6BD6-4290-A531-1E3D733CA3F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove_exclamation_marks", "Remove_exclamation_marks\Remove_exclamation_marks.csproj", "{6284A7FB-6BD6-4290-A531-1E3D733CA3F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNA_to_RNA_Conversion", "DNA_to_RNA_Conversion\DNA_to_RNA_Conversion.csproj", "{8AFD6581-07F7-4238-A824-EEA5923BDB59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DNA_to_RNA_Conversion", "DNA_to_RNA_Conversion\DNA_to_RNA_Conversion.csproj", "{8AFD6581-07F7-4238-A824-EEA5923BDB59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Will_you_make_it", "Will_you_make_it\Will_you_make_it.csproj", "{1590B267-93A6-4C46-980F-92A0EB40F1B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Will_you_make_it", "Will_you_make_it\Will_you_make_it.csproj", "{1590B267-93A6-4C46-980F-92A0EB40F1B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count_by_X", "Count_by_X\Count_by_X.csproj", "{45A88DEE-618C-4132-91BA-758FBC818E92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,10 @@ Global
 		{1590B267-93A6-4C46-980F-92A0EB40F1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1590B267-93A6-4C46-980F-92A0EB40F1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1590B267-93A6-4C46-980F-92A0EB40F1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A88DEE-618C-4132-91BA-758FBC818E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A88DEE-618C-4132-91BA-758FBC818E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A88DEE-618C-4132-91BA-758FBC818E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A88DEE-618C-4132-91BA-758FBC818E92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
